@@ -1,0 +1,7 @@
+# Existing variables
+KAFKA_VERSION=7.5.0
+KAFKA_PORT=9092
+UI_PORT=8080
+
+# Add this for your Python application
+KAFKA_BOOTSTRAP_SERVERS=localhost:9092
